@@ -6,9 +6,9 @@
 spring: 
     profiles: dev
     application: 
-        name: microservicecloud-config-yatou-dev
+        name: springcloud-config-3344-dev
 ---
 spring: 
     profiles: test
     application: 
-        name: microservicecloud-config-yatou-test
+        name: springcloud-config-3344-test
