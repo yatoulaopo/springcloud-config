@@ -1,6 +1,6 @@
 ﻿spring: 
     profiles: 
-        active:
+        active: 
         - dev
 ---
 spring: 
@@ -12,4 +12,3 @@ spring:
     profiles: test
     application: 
         name: microservicecloud-config-yatou-test
-​
